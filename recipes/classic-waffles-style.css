@@ -1,0 +1,45 @@
+body {
+    background-color: rosybrown;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+}
+
+.head-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    margin-left: 36px;
+    color: brown;
+    font-size: 36px;
+}
+
+h3 {
+    margin-left: 36px;
+    color: brown;
+    font-size: 28px;
+}
+
+.description-text {
+    font-size: 24px;
+    margin-left: 72px;
+    font-weight: bold;
+}
+
+li {
+    font-size: 22px;
+}
+
+.home-page {
+    float: right;
+    font-size: 22px;
+    margin-bottom: 36px;
+    margin-right: 36px;
+    color: brown;
+}
